@@ -1,0 +1,34 @@
+1. Sales Trend Analysis
+Sales showed fluctuations throughout the year.
+Highest sales were recorded during the last quarter, especially in November and December.
+February had the lowest sales performance.
+Overall sales trend indicates growth towards year-end.
+
+2. Regional Sales Performance
+West region generated the highest sales among all regions.
+East region was the second best-performing region.
+South region contributed the least sales.
+Sales distribution varies significantly across regions.
+
+3. Category Contribution
+Technology category contributed the highest share of total sales.
+Furniture and Office Supplies also contributed significantly.
+Category sales contribution appears relatively balanced.
+
+4. Profit Contribution Analysis
+Technology category generated the highest profit.
+Office Supplies maintained moderate profit contribution.
+Furniture contributed comparatively lower profit margins.
+Profitability differs across product categories.
+
+5. Business Insights
+End-of-year sales growth indicates seasonal demand increase.
+Technology products are both high revenue and high profit generating.
+South region requires strategic improvement for better sales performance.
+Focusing on profitable categories can improve overall business growth.
+
+6. Dashboard Features
+Interactive visualizations for sales analysis.
+Region-wise and category-wise performance tracking.
+Trend analysis using line charts and contribution charts.
+Business-friendly dark themed dashboard design.

@@ -1,0 +1,37 @@
+Sales Performance Insights
+Technology category generated the highest sales among all categories.
+Office Supplies and Furniture contributed moderate sales compared to Technology.
+Monthly sales showed an upward trend toward the end of the year, with November and December recording peak sales.
+Average sales value per transaction remained stable throughout the dataset.
+
+Regional Insights
+West region achieved the highest overall sales performance.
+East region followed closely behind West in revenue generation.
+South region contributed the lowest sales among all regions.
+Central region maintained balanced but comparatively moderate sales.
+
+Profit Insights
+Technology category contributed the highest profit share.
+Furniture category generated lower profitability compared to its sales contribution.
+Profit distribution indicates that high-sales categories do not always guarantee high profit margins.
+Office Supplies maintained a balanced profit contribution.
+
+Customer & Business Insights
+Total Orders exceeded 9,900+, indicating strong business activity.
+Consistent monthly order trends reflect stable customer demand.
+Seasonal sales spikes suggest increased customer purchasing during year-end months.
+Dashboard interactivity allows users to analyze performance region-wise for better decision-making.
+
+Dashboard Insights
+Interactive Power BI dashboard enables real-time filtering and business analysis.
+KPI cards provide quick overview of:
+Total Sales
+Total Profit
+Total Orders
+Average Sales
+Visual storytelling helps identify top-performing regions and categories efficiently.
+Dark-theme executive design improves dashboard readability and professional presentation.
+
+Final Business Conclusion
+
+The business performs strongest in the Technology category and West region. Sales growth is particularly strong during year-end months, indicating seasonal demand patterns. While overall profitability is positive, certain categories such as Furniture require optimization to improve profit margins. The dashboard provides actionable insights for strategic business decision-making through interactive visual analytics.

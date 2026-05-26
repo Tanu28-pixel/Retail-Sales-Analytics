@@ -1,0 +1,40 @@
+Category-wise Insights
+Technology category recorded the highest sales performance among all categories.
+Furniture category generated moderate sales but comparatively lower profit contribution.
+Office Supplies maintained balanced sales and profit performance.
+
+Region-wise Insights
+West region emerged as the top-performing region in terms of sales.
+East region showed strong sales contribution and remained close to the West region.
+South region generated the lowest sales among all regions.
+Central region maintained steady but moderate sales performance.
+
+Monthly Sales Insights
+Sales increased significantly during the final months of the year.
+November and December showed peak sales trends, indicating seasonal demand growth.
+Early-year months experienced comparatively lower sales activity.
+Monthly sales trend reflects consistent business growth over time.
+
+Profit Insights
+Technology contributed the highest profit share.
+Office Supplies generated stable profit margins.
+Furniture category showed relatively lower profitability despite decent sales.
+Profit distribution indicates that sales volume and profitability are not always directly proportional.
+
+KPI Insights
+Total Sales exceeded 2.30M, indicating strong overall business performance.
+Total Profit reached approximately 286K.
+Total Orders crossed 9.9K+, showing high customer transaction activity.
+Average Sales value remained around 229 per order.
+
+Business Insights
+Technology products are driving both revenue and profitability.
+West region should be considered the primary target market for future business expansion.
+Seasonal demand patterns suggest strong year-end customer purchasing behavior.
+Lower-performing regions and categories may require targeted marketing and pricing strategies.
+
+Dashboard Insights
+Interactive dashboard allows quick analysis of category, region, and monthly performance.
+KPI cards provide a summarized executive overview of business performance.
+Visual charts improve understanding of trends, profitability, and contribution analysis.
+Dashboard design supports data-driven business decision-making.
